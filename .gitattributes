@@ -1,0 +1,2 @@
+cover/Hi-Motor[[:space:]]cover[[:space:]]a4.tif filter=lfs diff=lfs merge=lfs -text
+cover/Hi-Motor-cover.tif filter=lfs diff=lfs merge=lfs -text
